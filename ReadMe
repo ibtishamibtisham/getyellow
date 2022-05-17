@@ -1,0 +1,4 @@
+//to add json-server
+npm i json-server
+//to run server
+npx json-server --watch db.json
